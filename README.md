@@ -1,4 +1,4 @@
-🚀 Proyecto Final de Informática: Sistema Automatizado de Clasificación 🚀
+Proyecto Final de Informática: Sistema Automatizado de Clasificación 
 
 Se ha desarrollado un sistema de clasificación automatizado para líneas de producción, utilizando programación en C++.
 Este sistema simula múltiples cintas transportadoras y un brazo mecánico clasificador, gestionando la concurrencia mediante hilos y semáforos.
